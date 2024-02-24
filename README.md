@@ -8,6 +8,6 @@ My Personal configuration of the suckless.org applications
 
 # How to install:
 
-$make 
-$make clean install
+$sudo make 
+$sudo make clean install
 
